@@ -1,4 +1,4 @@
- <?php
+<?php
 $course = $_POST['course'] ?? '';
 $components = $_POST['components'] ?? [];
 $grades = $_POST['grades'] ?? [];
