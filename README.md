@@ -51,8 +51,8 @@ Once you know your grade, you can use any GPA/CGPA calculator available online t
 I may or may not work further on this project, but here are some potential ideas for improvement:  
 - Auto-save inputs so you don’t have to re-enter data each time.  
 - Ability to export results as **PDF or Excel**.  
-- Predefined grading schemes (common A–F ranges) for quicker setup.  
-- Integration with a **GPA/CGPA calculator** for full academic performance tracking.  
+- Automatic fallback to **predefined grading schemes** (A+, A, A−, etc.) so grades are assigned even if you don’t add them manually.  
+- Integration with a **GPA/CGPA calculator** for full academic performance tracking.
 
 ---
 
