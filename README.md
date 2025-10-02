@@ -56,11 +56,11 @@ I may or may not work further on this project, but here are some potential ideas
 
 ---
 
-## 🔧 Reuse & Contribution  
-This project is open-source under the MIT License.  
-Feel free to **use, modify, or extend** this code for your own learning or projects.  
+## 🔒 Reuse & Contribution  
+This project is provided publicly **for portfolio and demonstration purposes only**.  
 
-If you improve it or add new features, I’d love to hear about it! 🚀  
+You may **not copy, modify, redistribute, or use** this code **without my explicit permission**.  
+If you’d like to request permission, please contact me at: [hafizmuhammadasimofficial@gmail.com](mailto:hafizmuhammadasimofficial@gmail.com)    
 
 ---
 
