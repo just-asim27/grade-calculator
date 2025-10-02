@@ -57,8 +57,7 @@ I may or may not work further on this project, but here are some potential ideas
 ---
 
 ## 🔒 Reuse & Contribution  
-This project is provided publicly **for portfolio and demonstration purposes only**.
-You may **not copy, modify, redistribute, or use** this code **without my explicit permission**.
+This project is provided publicly **for portfolio and demonstration purposes only**. You may **not copy, modify, redistribute, or use** this code **without my explicit permission**.
 
 If you’d like to request permission, please contact me at: [hafizmuhammadasimofficial@gmail.com](mailto:hafizmuhammadasimofficial@gmail.com)    
 
